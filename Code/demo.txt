@@ -1,0 +1,4 @@
+1. [Catechol] [120-80-9] reacts under the condition of [electrochemical oxidation] and the product is [coumarin derivative] [ ]
+2. [3-Methylcatechol] [488-17-5] reacts under [electrochemical oxidation], the product is [coumarin derivative] [ ].
+3. [3-Methoxycatechol] [488-17-5] reacts under the condition of [electrochemical oxidation], and the product is [coumarin derivative] []
+4. [2,3-Dihydroxybenzoic acid] [303-38-8] reacts under the condition of [electrochemical oxidation], and the product is [coumarin derivative] []
